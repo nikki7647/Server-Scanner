@@ -1,0 +1,4 @@
+CREATE DATABASE scan_results
+USE scan_results
+CREATE TABLE states (ip INT NOT NULL PRIMARY KEY, rsa VARCHAR, dsa VARCHAR, ecdsa VARCHAR, port VARCHAR, banner VARCHAR, version VARCHAR)
+exit

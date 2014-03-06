@@ -1,0 +1,1 @@
+INSERT INTO servers (ip, rsa, dsa, ecdsa, port, banner, version) VALUES ('', '', '', '', '', '', 'OpenSSH_6.5p1, OpenSSL 1.0.1f 6 Jan 2014');
